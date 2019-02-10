@@ -1,3 +1,6 @@
+*.py
+*.txt
+
 Book-Movie-Music.py
 douban-following-follwer.py
 douban-status-scrapper.py
